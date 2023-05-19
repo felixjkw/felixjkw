@@ -1,7 +1,7 @@
 ### Hi,
 
 i'm Felix, passionate learner in the field of Cloud Computing and Data Science / ML / AI related topics.
-Currently I´m diving deeper into Azure and working towards my first Certification.
+Currently, I´m diving deeper into Azure and working towards my first Certification.
 
 Alongside my technical pursuits, I am currently studying economics with a focus on business informatics. I believe that combining my knowledge in economics and business informatics with cloud computing, data science, ML, and AI will provide a unique perspective in understanding and addressing complex business challenges.
 
